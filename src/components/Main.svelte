@@ -14,7 +14,11 @@
         <div class="flex flex-col gap-2 text-center">
             <h3 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
                 Learn how to make this kind of website using the video below!
-            </h3>
+            </h3><br><br>
+            <a href="https://www.youtube.com/watch?v=vb7CgDcA_6U&t=93s" target="_blank" class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-dark-green duration-200">
+                <i class="fa-regular fa-circle-play text-white" />
+                <p class="text-white">Watch the video</p>
+            </a><br><br><br><br><br><br>
             <h6 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
                 A few of my creative endeavors
             </h6>
@@ -23,10 +27,7 @@
             </h5>
         </div>
 
-        <a href="https://www.youtube.com/watch?v=vb7CgDcA_6U&t=93s" target="_blank" class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-dark-green duration-200">
-            <i class="fa-regular fa-circle-play text-white" />
-            <p class="text-white">Watch the video</p>
-        </a>
+        
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg-gap-10">
             <Step step={{ name: 'Weather App', icon: 'fa-solid fa-sun' }}>
                 <a href="https://github.com/karomips/weather-app2" target="_blank" class="block p-4 bg-white rounded-lg transition-transform transform hover:scale-105 shadow-lg">
