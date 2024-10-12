@@ -1,11 +1,11 @@
-<script>
+<script lang="ts">
     import "../app.css";
     import Footer from "../components/Footer.svelte";
     import Header from "../components/Header.svelte";
 
-    let y;
-    let innerHeight = 0;
-    let innerWidth = 0;
+    let y: number = 0; // Explicitly set type to 'number'
+    let innerHeight: number = 0;
+    let innerWidth: number = 0;
 
     function goTop() {
         document.body.scrollIntoView({ behavior: 'smooth' });
