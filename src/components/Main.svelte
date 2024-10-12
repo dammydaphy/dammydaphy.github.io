@@ -12,13 +12,6 @@
 <main class="flex flex-col flex-1 p-4">
     <section id="projects" class="py-20 lg:py-10 flex flex-col gap-14">
         <div class="flex flex-col gap-2 text-center">
-            <h3 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
-                Learn how to make this kind of website using the video below!
-            </h3><br><br>
-            <a href="https://www.youtube.com/watch?v=vb7CgDcA_6U&t=93s" target="_blank" class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-dark-green duration-200">
-                <i class="fa-regular fa-circle-play text-white" />
-                <p class="text-white">Watch the video</p>
-            </a><br><br><br><br><br><br>
             <h6 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
                 A few of my creative endeavors
             </h6>
