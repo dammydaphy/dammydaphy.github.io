@@ -13,10 +13,10 @@
     <section id="projects" class="py-20 lg:py-40 flex flex-col gap-14">
         <div class="flex flex-col gap-2 text-center">
             <h6 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
-                A few of my creative endeavors
+                I'm delighted to share some of my creative works
             </h6>
             <h5 class="font-semibold text-3xl sm:text-4xl md:text-5xl text-white">
-                Curious to <span class="poppins text-dark-green">see</span> my work?
+                Here are <span class="poppins text-dark-green">some</span> of my work
             </h5>
         </div>
 
