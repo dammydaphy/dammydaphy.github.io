@@ -10,7 +10,7 @@
 </script>
 
 <main class="flex flex-col flex-1 p-4">
-    <section id="projects" class="py-20 lg:py-32 flex flex-col gap-24">
+    <section id="projects" class="py-20 lg:py-10 flex flex-col gap-14">
         <div class="flex flex-col gap-2 text-center">
             <h3 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
                 Learn how to make this kind of website using the video below!
