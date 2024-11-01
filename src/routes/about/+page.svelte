@@ -5,7 +5,8 @@
             A bit <span class="poppins text-dark-green">about</span> me.
         </h3>
     </div>
-    <h1 class="text-lg sm:text-xl md:text-2xl text-center text-white">
-        I'm currently a student with a passion for learning and growing. I enjoy immersing myself in online games during my free time, where I can unwind and connect with friends. When I'm not gaming, you'll often find me indulging in my favorite foods or catching up on some much-needed sleep. Life is all about balance, and I strive to enjoy every moment of it!
+    <h1 class="text-lg sm:text-xl md:text-2xl text-center text-white"> 
+        As a dedicated student, I have a strong enthusiasm for learning and personal development. In my leisure time, I love diving into online gaming, which serves as a perfect way to relax and connect with my friends. When I’m not gaming, you can usually find me enjoying my favorite meals or catching up on some well-deserved rest. <br>
+        <br>I have a passion for exploring various cuisines, always eager to try new dishes and appreciate the rich flavors from different cultures. Music plays a significant role in my life as well; I have a particular fondness for jazz, country, and pop, which often sets the mood during my study sessions or downtime. I also treasure the opportunity to travel, as it allows me to discover new places and engage with diverse communities. For me, life is all about maintaining balance, and I aim to make the most of every moment! 
     </h1>
 </section>
