@@ -10,37 +10,6 @@
 </script>
 
 <main class="flex flex-col flex-1 p-4">
-    <section id="projects" class="py-20 lg:py-40 flex flex-col gap-14">
-        <div class="flex flex-col gap-2 text-center">
-            <h6 class="text-lg sm:text-xl md:text-2xl font-semibold text-white">
-                I'm delighted to share some of my creative works
-            </h6>
-            <h5 class="font-semibold text-3xl sm:text-4xl md:text-5xl text-white">
-                Here are <span class="poppins text-dark-green">some</span> of my work
-            </h5>
-        </div>
-
-        
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg-gap-10">
-            <Step step={{ name: 'Weather App', icon: 'fa-solid fa-sun' }}>
-                <a href="https://github.com/karomips/weather-app2" target="_blank" class="block p-4 bg-white rounded-lg transition-transform transform hover:scale-105 shadow-lg">
-                    <p class="text-black">The Weather App provides real-time weather updates <strong class="text-dark-green">using a weather API</strong>. Thank you!</p>
-                </a>
-            </Step>
-            <Step step={{ name: 'Push Notification App', icon: 'fa-solid fa-bell' }}>
-                <a href="https://github.com/Dumgrammer/pushnotiftracer" target="_blank" class="block p-4 bg-white rounded-lg transition-transform transform hover:scale-105 shadow-lg">
-                    <p class="text-black">The Push Notification App allows users to receive alerts <strong class="text-dark-green">for important events and updates</strong>. Thank you!</p>
-                </a>
-            </Step>
-            <Step step={{ name: 'Task Tracker', icon: 'fa-solid fa-tasks' }}>
-                <a href="https://github.com/PickleC137/TaskTraker" target="_blank" class="block p-4 bg-white rounded-lg transition-transform transform hover:scale-105 shadow-lg">
-                    <p class="text-black">The Task Tracker helps users manage their tasks <strong class="text-dark-green">effectively and efficiently</strong>. Thank you!</p>
-                </a>
-            </Step>
-        </div>        
-        
-    </section>
-    
     <hr class="my-10 border-t-2 border-dark-green" />
 
     <section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14">
@@ -60,18 +29,6 @@
     </section>     
 
     <hr class="my-10 border-t-2 border-dark-green" />
-
-    <section id="about" class="py-20 pt-10 lg:pt-16 lg:py-32 flex flex-col gap-16 sm:gap-20 md:gap-24 relative">
-        <div class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-dark-green after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-dark-green py-4">
-            <h6 class="text-lg sm:text-xl md:text-2xl text-white">Want to know more about me?</h6>
-            <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl text-white">
-                A bit <span class="poppins text-dark-green">about</span> me.
-            </h3>
-        </div>
-        <h1 class="text-lg sm:text-xl md:text-2xl text-center text-white">
-            I'm currently a student with a passion for learning and growing. I enjoy immersing myself in online games during my free time, where I can unwind and connect with friends. When I'm not gaming, you'll often find me indulging in my favorite foods or catching up on some much-needed sleep. Life is all about balance, and I strive to enjoy every moment of it!
-        </h1>
-    </section>
 </main>
 
 <style>
