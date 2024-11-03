@@ -27,6 +27,14 @@
             {/each}
         </div>
         
+        <!-- New Button to Navigate to Homepage -->
+        <a 
+            href="https://dammydaphy.github.io"
+            class="blueShadow relative overflow-hidden px-5 py-2 group rounded-full bg-violet-500 text-white shadow-lg transition-transform transform hover:scale-105">
+            <div class="absolute top-0 right-full w-full h-full bg-violet-700 opacity-20 group-hover:translate-x-full z-0 duration-200"></div>
+            <h4 class="relative z-10">Home</h4>
+        </a>
+
         <a 
             href="https://www.facebook.com/djra.25/"
             target="_blank"
